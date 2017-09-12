@@ -1,0 +1,7 @@
+unsigned 	int
+signed 		int
+unsigned 	short
+signed 		short
+unsigned	char
+signed		char
+

@@ -1,0 +1,21 @@
+/*******************CHANGE INPUT AND OUTPUT FILENAME***************/
+
+void cne(void)
+{
+	system("clear");
+	printf("---------------------------------------------------------------------\n");
+	printf("Warnings or Errors,if any\n\n");
+	system("gcc file.c -o file.out");
+
+}
+
+void ubound(void)
+{
+	printf("---------------------------------------------------------------------\n\n");
+}
+
+void lbound(void)
+{
+	printf("\n\n---------------------------------------------------------------------\n\n");
+}
+

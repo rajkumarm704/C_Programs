@@ -1,0 +1,6 @@
+rajkumar                      ;54   ;india               ;1254876532     ;raj@hotmail.com     
+kapail                        ;26   ;indore              ;9969532641     ;kapill@gmail.com    
+mohit                         ;17   ;india               ;9669279734     ;raj@mail.com        
+rahul                         ;23   ;mumbai              ;9665823421     ;ra@gmai.com         
+rohan                         ;43   ;shimla              ;8569547123     ;ro@ho.com           
+avinash                       ;36   ;chennai             ;5588669922     ;avinah@nash.com     
